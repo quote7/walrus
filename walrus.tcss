@@ -1,0 +1,11 @@
+Screen {
+    layout: horizontal;
+}
+
+.box {
+    height: 1fr;
+    border: solid purple;
+}
+.file {
+    width: 20vw;
+}
